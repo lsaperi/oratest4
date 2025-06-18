@@ -1,0 +1,10 @@
+{
+  "General": [
+    {
+      "EDITIONABLE": "Y",
+      "OBJECT_NAME": "TRG_BEFORE_INSERT_EMPLOYEES",
+      "OBJECT_TYPE": "TRIGGER",
+      "STATUS": "ENABLED"
+    }
+  ]
+}

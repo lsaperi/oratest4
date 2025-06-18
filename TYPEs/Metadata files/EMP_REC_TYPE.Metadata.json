@@ -1,0 +1,48 @@
+{
+  "Attributes": [
+    {
+      "ATTR_NAME": "ID",
+      "ATTR_NO": 1.0,
+      "ATTR_TYPE_NAME": "NUMBER",
+      "CHARACTER_SET_NAME": null,
+      "LENGTH": null,
+      "PRECISION": null,
+      "SCALE": null,
+      "TYPE": "TYPE",
+      "TYPE_NAME": "EMP_REC_TYPE"
+    },
+    {
+      "ATTR_NAME": "NAME",
+      "ATTR_NO": 2.0,
+      "ATTR_TYPE_NAME": "VARCHAR2",
+      "CHARACTER_SET_NAME": "CHAR_CS",
+      "LENGTH": 100.0,
+      "PRECISION": null,
+      "SCALE": null,
+      "TYPE": "TYPE",
+      "TYPE_NAME": "EMP_REC_TYPE"
+    },
+    {
+      "ATTR_NAME": "SALARY",
+      "ATTR_NO": 3.0,
+      "ATTR_TYPE_NAME": "NUMBER",
+      "CHARACTER_SET_NAME": null,
+      "LENGTH": null,
+      "PRECISION": null,
+      "SCALE": null,
+      "TYPE": "TYPE",
+      "TYPE_NAME": "EMP_REC_TYPE"
+    }
+  ],
+  "General": [
+    {
+      "EDITIONABLE": "Y",
+      "FINAL": "YES",
+      "OBJECT_TYPE": "TYPE",
+      "SUPERTYPE_NAME": null,
+      "TYPE_NAME": "EMP_REC_TYPE",
+      "TYPECODE": "OBJECT"
+    }
+  ],
+  "Methods": []
+}
